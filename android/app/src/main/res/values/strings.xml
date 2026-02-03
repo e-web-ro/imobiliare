@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">E-Web Imobiliare</string>
+    <string name="title_activity_main">E-Web Imobiliare</string>
+    <string name="package_name">com.eweb.imobiliare</string>
+    <string name="custom_url_scheme">com.eweb.imobiliare</string>
+</resources>
